@@ -16,7 +16,7 @@ type Event struct {
 # usage
 
 ``` go
-import "."
+import "github.com/wolfeidau/kako"
 ```
 
 ### func (\*Event) ToRowMap
