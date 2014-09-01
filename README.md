@@ -49,3 +49,7 @@ type Measurement struct {
 ``` go
 func (m *Measurement) ToRowMap() map[string]bigquery.JsonValue
 ```
+
+# License
+Copyright (c) 2014 Mark Wolfe  
+Licensed under the MIT license.
